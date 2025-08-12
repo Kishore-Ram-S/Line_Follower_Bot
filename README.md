@@ -39,7 +39,8 @@ Designed to be **lightweight, portable, and fully open-source** for easy replica
 ---
 
 ## 📜 Schematic
-[🔗 View Line Follower Pin Connections](https://github.com/user-attachments/assets/857c6309-575b-4a5c-a5ea-1915d18deca3)
+![Line Follower Pin Connections](https://github.com/user-attachments/assets/857c6309-575b-4a5c-a5ea-1915d18deca3)
+
 
 ---
 
