@@ -38,19 +38,9 @@ Designed to be **lightweight, portable, and fully open-source** for easy replica
 
 ---
 
-## 📜 Schematic
-![Line Follower Pin Connections](https://github.com/user-attachments/assets/857c6309-575b-4a5c-a5ea-1915d18deca3)
-
-
----
-
-## 🖼 Prototypes
-
-**Breadboard Prototype**  
-![Breadboard Prototype](https://github.com/user-attachments/assets/a7d8fb73-acec-4608-adb4-741eee4b3480)
-
-**Final Bot**  
-*(Add final bot image here)*
+## 📚 Libraries Required
+- **QTRSensors**  
+- **SparkFun TB6612FNG Motor Driver**  
 
 ---
 
